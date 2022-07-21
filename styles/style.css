@@ -393,6 +393,8 @@ body {
 
     .article {
         height: 309px;
+        background-color: rgb(207, 234, 234);
+        border: 2px solid rgb(186, 182, 182);
     }
 
     .article-image {
